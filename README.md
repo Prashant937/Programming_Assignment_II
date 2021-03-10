@@ -1,13 +1,13 @@
 # Scala Assignment
 
-Scala Assignment 2 by Prashant Trivedi
+Scala Assignment II by Prashant Trivedi
 
 - ## files
 
     * ### ListDemo.scala
       List questions
     * ### Queue.scala
-      Contains Queue Implementation with immutable list
-  * ### Stack.scala
-    Contains Stack Implementation with immutable list
+      Contains Queue Implementation with List Buffer
+    * ### Stack.scala
+      Contains Stack Implementation with List Buffer
     
